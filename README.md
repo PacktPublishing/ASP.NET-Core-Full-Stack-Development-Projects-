@@ -19,22 +19,20 @@ We build Full Stack applications using ASP.NET, complimented with a simple front
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
-●	Prior working knowledge of the JavaScript (ES6) language
-●	An understanding of basic HTML and CSS syntax
+●	Prior working knowledge of the JavaScript (ES6) language<br/>
+●	An understanding of basic HTML and CSS syntax<br/>
 ●	(Optional) Experience with Databases
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	An editor like Atom, Sublime Text or Visual Studio Code
+●	An editor like Atom, Sublime Text or Visual Studio Code<br/>
 ●	Node.JS
 
-This course has been tested on the following system configuration:
-●	OS: Windows 10
-●	Processor:Quad Core 3.2Ghz
-●	Memory:24GB
-●	Hard Disk Space: 200MB
+This course has been tested on the following system configuration:<br/>
+●	OS: Windows 10<br/>
+●	Processor:Quad Core 3.2Ghz<br/>
+●	Memory:24GB<br/>
+●	Hard Disk Space: 200MB<br/>
 ●	Video Card:2GB Video Memory
 
 
